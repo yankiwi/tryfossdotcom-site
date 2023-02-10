@@ -1,0 +1,56 @@
+baseURL      = "/"
+languageCode = "en-nz"
+timeZone     = "Pacific/Auckland"
+title        = "TryFOSS.com"
+theme        = "tryfossdotcom"
+paginate     = 24
+copyright    = "2023 TryFOSS.com.  All rights reserved."
+
+[Author]
+name  = "TryFOSS.com"
+email = "patrick@tryfoss.com"
+github = "tryfossdotcom"
+
+[params]
+rss              = true
+comments         = true
+readingTime      = true
+wordCount        = true
+useHLJS          = true
+socialShare      = true
+delayDisqus      = true
+showRelatedPosts = true
+
+[params.hero]
+    title    = "TryFOSS.com"
+    subtitle = "Trying to use FOSS where ever possible."
+[params.hero.logo]
+    src     = "/img/_logo.svg"
+    height  = "64"
+    width   = "64"
+    alt     = "TryFOSS.com"
+
+[[menu.main]]
+    name       = "Home"
+    url        = "/"
+    weight     = 1
+
+[[menu.main]]
+    name       = "Posts"
+    url        = "/post/"
+    weight     = 2
+
+[[menu.main]]
+    name       = "About"
+    url        = "/about/"
+    weight     = 3
+
+[[menu.main]]
+    name       = "Tags"
+    url        = "/tags/"
+    weight     = 4
+
+[[menu.main]]
+    name       = "Subscribe"
+    url        = "/subscribe/"
+    weight     = 5

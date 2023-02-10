@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TryFOSS.com</title>
+    <link>/</link>
+    <description>Recent content on TryFOSS.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-nz</language>
+    <managingEditor>patrick@tryfoss.com (TryFOSS.com)</managingEditor>
+    <webMaster>patrick@tryfoss.com (TryFOSS.com)</webMaster>
+    <copyright>2023 TryFOSS.com.  All rights reserved.</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
