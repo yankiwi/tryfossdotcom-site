@@ -1,0 +1,7 @@
+[module]
+    [[module.imports]]
+        path = "github.com/yankiwi/tryfossdotcom-theme"
+        disable = false
+        [[module.imports.mounts]]
+            source = "/"
+            target = "themes/tryfossdotcom"

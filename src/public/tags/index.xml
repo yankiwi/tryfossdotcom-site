@@ -8,6 +8,43 @@
     <language>en-nz</language>
     <managingEditor>patrick@tryfoss.com (TryFOSS.com)</managingEditor>
     <webMaster>patrick@tryfoss.com (TryFOSS.com)</webMaster>
-    <copyright>2023 TryFOSS.com.  All rights reserved.</copyright><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2023 TryFOSS.com.  All rights reserved.</copyright>
+    <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +1300</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>/tags/hugo/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +1300</pubDate>
+      <author>patrick@tryfoss.com (TryFOSS.com)</author>
+      <guid>/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pwa</title>
+      <link>/tags/pwa/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +1300</pubDate>
+      <author>patrick@tryfoss.com (TryFOSS.com)</author>
+      <guid>/tags/pwa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>upup</title>
+      <link>/tags/upup/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +1300</pubDate>
+      <author>patrick@tryfoss.com (TryFOSS.com)</author>
+      <guid>/tags/upup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>/tags/first/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +1300</pubDate>
+      <author>patrick@tryfoss.com (TryFOSS.com)</author>
+      <guid>/tags/first/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

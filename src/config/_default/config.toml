@@ -54,3 +54,29 @@ showRelatedPosts = true
     name       = "Subscribe"
     url        = "/subscribe/"
     weight     = 5
+
+[module]
+    [[module.imports]]
+        path = "github.com/yankiwi/tryfossdotcom-theme"
+        disable = false
+        [[module.imports.mounts]]
+            source = "archetypes"
+            target = "archetypes"
+        [[module.imports.mounts]]
+            source = "assets"
+            target = "assets"
+        [[module.imports.mounts]]
+            source = "data"
+            target = "data"
+        [[module.imports.mounts]]
+            source = "layouts"
+            target = "layouts"
+        [[module.imports.mounts]]
+            source = "static"
+            target = "static"
+    [[module.imports]]
+        path = "github.com/yankiwi/tryfossdotcom-content"
+        disable = false
+        [[module.imports.mounts]]
+            source = "."
+            target = "content"
