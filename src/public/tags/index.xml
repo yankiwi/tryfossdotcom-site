@@ -9,13 +9,22 @@
     <managingEditor>patrick@tryfoss.com (TryFOSS.com)</managingEditor>
     <webMaster>patrick@tryfoss.com (TryFOSS.com)</webMaster>
     <copyright>2023 TryFOSS.com.  All rights reserved.</copyright>
-    <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +1300</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Feb 2023 00:00:00 +1300</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo</title>
       <link>/tags/hugo/</link>
-      <pubDate>Wed, 08 Feb 2023 00:00:00 +1300</pubDate>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +1300</pubDate>
       <author>patrick@tryfoss.com (TryFOSS.com)</author>
       <guid>/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ionicons</title>
+      <link>/tags/ionicons/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +1300</pubDate>
+      <author>patrick@tryfoss.com (TryFOSS.com)</author>
+      <guid>/tags/ionicons/</guid>
       <description></description>
     </item>
     

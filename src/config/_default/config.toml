@@ -2,7 +2,6 @@ baseURL      = "/"
 languageCode = "en-nz"
 timeZone     = "Pacific/Auckland"
 title        = "TryFOSS.com"
-theme        = "tryfossdotcom"
 paginate     = 24
 copyright    = "2023 TryFOSS.com.  All rights reserved."
 
@@ -57,32 +56,8 @@ showRelatedPosts = true
 
 [module]
     [[module.imports]]
-        path = "github.com/yankiwi/tryfossdotcom-theme"
-        disable = false
-        [[module.imports.mounts]]
-            source = "archetypes"
-            target = "archetypes"
-        [[module.imports.mounts]]
-            source = "assets"
-            target = "assets"
-        [[module.imports.mounts]]
-            source = "data"
-            target = "data"
-        [[module.imports.mounts]]
-            source = "layouts"
-            target = "layouts"
-        [[module.imports.mounts]]
-            source = "static"
-            target = "static"
-    [[module.imports]]
-        path = "github.com/yankiwi/tryfossdotcom-content"
-        disable = false
-        [[module.imports.mounts]]
-            source = "."
-            target = "content"
-    [[module.imports]]
         path = "github.com/ionic-team/ionicons"
         disable = false
         [[module.imports.mounts]]
             source = "src/svg"
-            target = "assets/svg/ionicon"
+            target = "assets/svg/ionicons"

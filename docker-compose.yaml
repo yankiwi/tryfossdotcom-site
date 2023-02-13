@@ -5,7 +5,9 @@ services:
   build:
     image: klakegg/hugo:ext-alpine
     entrypoint: ""
-    command: hugo mod get
+    command: >
+      sh -c "hugo mod get -u &&
+             hugo"
     volumes:
       - "./src:/src"
     environment:
@@ -13,7 +15,10 @@ services:
 
   serve:
     image: klakegg/hugo:ext-alpine
-    command: server --baseURL "" --environment staging --disableFastRender
+    entrypoint: ""
+    command: >
+      ash -c "hugo mod get -u &&
+              hugo server --environment='development' --baseURL '' --disableFastRender"
     environment:
       - "TZ=Pacific/Auckland"
     volumes:

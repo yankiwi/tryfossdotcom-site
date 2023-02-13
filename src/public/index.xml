@@ -9,7 +9,17 @@
     <managingEditor>patrick@tryfoss.com (TryFOSS.com)</managingEditor>
     <webMaster>patrick@tryfoss.com (TryFOSS.com)</webMaster>
     <copyright>2023 TryFOSS.com.  All rights reserved.</copyright>
-    <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +1300</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Feb 2023 00:00:00 +1300</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Ionicons in Hugo</title>
+      <link>/post/2023-02-12_ionicons_in_hugo/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +1300</pubDate>
+      <author>patrick@tryfoss.com (TryFOSS.com)</author>
+      <guid>/post/2023-02-12_ionicons_in_hugo/</guid>
+      <description>Introduction Ionicons is a great icon set created by the Ionic team. It&amp;rsquo;s MIT licensed, looks great on web, Android and iOS. Because it supports both SVG and web font there are a lot of ways to use Ionicons in your project. This site uses Hugo so my goal is make Ionicons available both as a partial and shortcode without Javascript.
+Get the Icons To get the Ionicons SVG files, I&amp;rsquo;ll be using Hugo Modules.</description>
+    </item>
+    
     <item>
       <title>TryFOSS.com PWA</title>
       <link>/post/2023-02-08_tryfoss_pwa/</link>

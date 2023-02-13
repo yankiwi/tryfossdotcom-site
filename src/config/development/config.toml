@@ -1,0 +1,9 @@
+theme        = "tryfossdotcom"
+
+[module]
+    [[module.imports]]
+        path = "github.com/ionic-team/ionicons"
+        disable = false
+        [[module.imports.mounts]]
+            source = "src/svg"
+            target = "assets/svg/ionicons"
