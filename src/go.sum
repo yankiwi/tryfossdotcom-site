@@ -1,6 +1,6 @@
 github.com/ionic-team/ionicons v6.1.3+incompatible h1:mEsSDTbMfMwPCacO72E1wa5xtihzLRra+LgkbqtxZIE=
 github.com/ionic-team/ionicons v6.1.3+incompatible/go.mod h1:3Q2+G3GjYWiyNemHI1VsYsxZxJ2aHVYOq7R+Qd72D2Y=
-github.com/yankiwi/tryfossdotcom-content v0.0.0-20230213082556-a8c3f8d9054a h1:Csz4q1KvZQ1DHGlOheLUMgzETGy74clQQaekYhQguCY=
-github.com/yankiwi/tryfossdotcom-content v0.0.0-20230213082556-a8c3f8d9054a/go.mod h1:do6mcdZoVHofh8hETT3AZpgL58pt9DJG5AmEzWY/CZk=
-github.com/yankiwi/tryfossdotcom-theme v0.0.0-20230213083249-3dcd55ec9df1 h1:HAnrikJKsXtajdZvM7NSoOGVn58ji4GSKDsE+AacKSQ=
-github.com/yankiwi/tryfossdotcom-theme v0.0.0-20230213083249-3dcd55ec9df1/go.mod h1:AENYkuY3pQo48kg4nOclFHCv0P1rpZfAKaCeFFFT0Iw=
+github.com/yankiwi/tryfossdotcom-content v0.0.0-20230213233015-a2fc200df708 h1:BH7McLQ6VOa5b/v8//q6WZxuZ11Ui27bmR0AvXo4m54=
+github.com/yankiwi/tryfossdotcom-content v0.0.0-20230213233015-a2fc200df708/go.mod h1:do6mcdZoVHofh8hETT3AZpgL58pt9DJG5AmEzWY/CZk=
+github.com/yankiwi/tryfossdotcom-theme v0.0.0-20230213234515-226d1afbc8c7 h1:ixWAh37n738r1Kl6QF/fAufzUwoxT8UjRChjcLhrs8Y=
+github.com/yankiwi/tryfossdotcom-theme v0.0.0-20230213234515-226d1afbc8c7/go.mod h1:AENYkuY3pQo48kg4nOclFHCv0P1rpZfAKaCeFFFT0Iw=

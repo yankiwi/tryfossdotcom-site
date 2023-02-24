@@ -16,8 +16,7 @@
       <pubDate>Sun, 12 Feb 2023 00:00:00 +1300</pubDate>
       <author>patrick@tryfoss.com (TryFOSS.com)</author>
       <guid>/post/2023-02-12_ionicons_in_hugo/</guid>
-      <description>Introduction Ionicons is a great icon set created by the Ionic team. It&amp;rsquo;s MIT licensed, looks great on web, Android and iOS. Because it supports both SVG and web font there are a lot of ways to use Ionicons in your project. This site uses Hugo so my goal is make Ionicons available both as a partial and shortcode without Javascript.
-Get the Icons To get the Ionicons SVG files, I&amp;rsquo;ll be using Hugo Modules.</description>
+      <description>Introduction Ionicons is a great icon set created by the Ionic team. Whereas a lot of sets have pulled back from including logos, Ionicons has a large set builtin, it&amp;rsquo;s MIT licensed, and looks great on web, Android and iOS. Because it supports both SVG and web font there are a lot of ways to use Ionicons in your project. This site uses Hugo so my goal is make Ionicons available both as a partial and shortcode without Javascript.</description>
     </item>
     
     <item>
@@ -46,7 +45,7 @@ Get the Icons To get the Ionicons SVG files, I&amp;rsquo;ll be using Hugo Module
       <guid>/about/</guid>
       <description>TryFOSS.com is a tech blog about FOSS (free open source software) related topics.
 Open Source TryFOSS.com was created using the following open source software and libraries:
-CMS/SSG: Hugo (https://gohugo.io/ ) PWA Service Worker: UpUp (https://www.talater.com/upup/ ) CSS Framework: Bulma (https://bulma.io/ ) JS Framework: Alpine.js (https://alpinejs.dev/ ) Icon Library: Ionicons (https://ionic.io/ ) Chart Library: Chart.js (https://www.chartjs.org/ ) </description>
+CMS/SSG: Hugo (https://gohugo.io ) PWA Service Worker: UpUp (https://www.talater.com/upup ) CSS Framework: Bulma (https://bulma.io ) JS Framework: Alpine.js (https://alpinejs.dev ) Icon Library: Ionicons (https://ionic.io/ionicons ) Chart Library: Chart.js (https://www.chartjs.org ) </description>
     </item>
     
   </channel>
