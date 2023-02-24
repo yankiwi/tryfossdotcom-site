@@ -6,8 +6,12 @@ services:
     image: klakegg/hugo:ext-alpine
     entrypoint: ""
     command: >
-      sh -c "hugo mod get -u &&
-             hugo"
+      sh -c "rm go.mod &&
+             rm go.sum &&
+             hugo mod init dummy-mod &&
+             hugo mod tidy &&
+             hugo mod get -u &&
+             hugo --environment='production'"
     volumes:
       - "./src:/src"
     environment:
